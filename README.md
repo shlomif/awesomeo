@@ -129,7 +129,7 @@ This small Compojure application demonstrates creating a Ring handler from two r
 ---
 [**yada** ](https://github.com/juxt/yada) —  a web library for Clojure, designed to support the creation of production services via HTTP.
 
-Typically, yada handlers are created from a configuation expressed in data.
+Typically, yada handlers are created from a configuration expressed in data.
 
 ```clojure
 (require '[yada.yada :as yada])
@@ -419,7 +419,7 @@ false
 ---
 [**MongooseIM**](https://github.com/esl/MongooseIM) is robust and efficient XMPP platform aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant, can utilize resources of multiple clustered machines and easily scale in need of more capacity (by just adding a box/VM). MongooseIM can accept client sessions over vanilla XMPP, Websockets, HTTP long-polling (a.k.a. BOSH), and a REST API.
 
-The MongooseIM platform comes with server-side components and client libraries. We provide a test suite and a monitoring server. We recommand third-party, open source client libraries for XMPP and REST API.
+The MongooseIM platform comes with server-side components and client libraries. We provide a test suite and a monitoring server. We recommend third-party, open source client libraries for XMPP and REST API.
 
 ![mim](https://github.com/esl/MongooseIM/blob/master/doc/MongooseIM_logo.png)
 
@@ -484,7 +484,7 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 ![caddy](https://camo.githubusercontent.com/50e89931a5fb9bdd98b9f40bde700df721969ea3/68747470733a2f2f63616464797365727665722e636f6d2f7265736f75726365732f696d616765732f63616464792d6c6f7765722e706e67)
 
 ---
-[**gogs **](https://github.com/gogits/gogs) —  Gogs (Go Git Service) is a painless self-hosted Git service.
+[**gogs**](https://github.com/gogits/gogs) —  Gogs (Go Git Service) is a painless self-hosted Git service.
 
 ![gogs](https://github.com/gogits/gogs/raw/master/public/img/gogs-large-resize.png?raw=true)
 
@@ -553,7 +553,7 @@ Chart.js provides two different builds that are available for your use. The Char
 ![d3](https://cdn-images-1.medium.com/max/720/0*bxHj6VbZ9lApwWyo.jpg)
 
 ---
-[**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
+[**N1**](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
 
 ![logo](https://cdn-images-1.medium.com/max/720/0*47dEbQUDUuduqWTQ.)
 ![main](https://cdn-images-1.medium.com/max/720/0*-hGOgH1DGkciuud9.)
@@ -586,14 +586,14 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![async](https://cdn-images-1.medium.com/max/720/0*MB_a8lRqGYBy276_.jpg)
 
 ---
-[**Mongotron **]() —  a MongoDB GUI built using Electron, and Angular JS.
+[**Mongotron**]() —  a MongoDB GUI built using Electron, and Angular JS.
 
 ![mongotron](https://cdn-images-1.medium.com/max/720/0*TdQw5EQvFq6vOXX1.)
 
 
 ## Lua
 
-[**middleclass **](https://github.com/kikito/middleclass) —  a simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
+[**middleclass**](https://github.com/kikito/middleclass) —  a simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
 
 Quick look:
 
@@ -629,7 +629,7 @@ print(lemon:isSweet()) -- false
 ![luaricks](https://cdn-images-1.medium.com/max/720/0*sawSUbg8SqRSpEha.)
 
 ---
-[**telize **](https://github.com/fcambus/telize) —  a REST API built on Nginx and Lua allowing to get a visitor IP address and to query location information from any IP address. It outputs JSON-encoded IP geolocation data, and supports both JSON and JSONP.
+[**telize**](https://github.com/fcambus/telize) —  a REST API built on Nginx and Lua allowing to get a visitor IP address and to query location information from any IP address. It outputs JSON-encoded IP geolocation data, and supports both JSON and JSONP.
 
 ```
 t  e  l  i  z  e
@@ -649,7 +649,7 @@ t  e  l  i  z  e
 ```
 
 ---
-[**lor **]() —  a fast and minimalist web framework based on OpenResty.
+[**lor**]() —  a fast and minimalist web framework based on OpenResty.
 
 Example:
 
@@ -665,7 +665,7 @@ app:run()
 ```
 
 ---
-[**pegasus.lua **](https://github.com/EvandroLG/pegasus.lua) —  a http server to work with web applications written in Lua language.
+[**pegasus.lua**](https://github.com/EvandroLG/pegasus.lua) —  a http server to work with web applications written in Lua language.
 
 ![pegasus](https://cdn-images-1.medium.com/max/720/1*4W5cLtqAYQDOloeUkAOOxg.png)
 
@@ -749,7 +749,7 @@ or how to generate dummy model of transport:
 ![universe](https://cdn-images-1.medium.com/max/720/0*3gIaeIYFBO2REN_K.jpg)
 
 ---
-[**Theano **](https://github.com/Theano/Theano) —  a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+[**Theano**](https://github.com/Theano/Theano) —  a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 
 ![theano](https://cdn-images-1.medium.com/max/720/0*b-nP6iz23vKIVqys.png)
 
@@ -799,7 +799,7 @@ True
 ```
 
 ---
-[**Rainbow Stream **](https://github.com/DTVD/rainbowstream) —  is a terminal-based Twitter Client. Realtime tweetstream, compose, search, favorite … and much more fun directly from terminal.
+[**Rainbow Stream**](https://github.com/DTVD/rainbowstream) —  is a terminal-based Twitter Client. Realtime tweetstream, compose, search, favorite … and much more fun directly from terminal.
 
 ![main](https://raw.githubusercontent.com/DTVD/rainbowstream/master/screenshot/rs.gif)
 
@@ -913,7 +913,7 @@ Example:
 
 ## Scala
 
-[**GitBucket**](https://github.com/gitbucket/gitbucket)  —  a Git platform powered by Scala with easy installation, high extensibility & github API compatibility.
+[**GitBucket**](https://github.com/gitbucket/gitbucket)  —  a Git platform powered by Scala with easy installation, high extensibility & Github API compatibility.
 
 ![gitbucket](https://cdn-images-1.medium.com/max/720/0*UFKKIcu3r-SMWkgP.png)
 
